@@ -1,4 +1,4 @@
-## Coding challenge for Data Engineer role at ISentia. ##
+## Coding challenge for Data Science Intern role at Numadic. ##
 
 ### Purpose ###
 Create a solution that crawls for articles from a news website, cleanses the response, stores in a mongo database then makes it available to search via an API.
